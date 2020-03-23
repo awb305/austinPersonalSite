@@ -157,7 +157,7 @@ const Home: NextPage = () => {
         />
         {/* Image from: http://unsplash.com/photos/MP0IUfwrn0A */}
       </div>
-      {/* Pin to top right corner */}
+
       {/* <button onClick={handleNightTheme} className="absolute top-0 right-0 h-12 p-4 w-18">
         <button className="js-change-theme focus:outline-none">🌙</button>
       </button> */}
